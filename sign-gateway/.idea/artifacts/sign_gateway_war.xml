@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sign-gateway:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sign-gateway.war">
+      <element id="artifact" artifact-name="sign-gateway:war exploded" />
+    </root>
+  </artifact>
+</component>
